@@ -40,9 +40,9 @@ export default function Home() {
 
       <div className="primary-container">
       <div className="container_Text"> 
-<h1>Bem-vindo ao nosso canal de suporte técnico!</h1>
-<p>Este é o seu ponto de apoio para qualquer problema técnico de hardware e software. Estamos aqui para ajudar você a resolver suas questões e garantir que tudo volte a funcionar rapidamente. Conte conosco para um suporte eficiente e sem complicações. Estamos prontos para tornar sua experiência mais tranquila e satisfatória!
-</p>
+      <h1>Bem-vindo ao nosso canal de solicitações de marketing!</h1>
+<p>Este é o seu ponto de contato para todas as solicitações relacionadas ao marketing. Estamos aqui para ajudar você a desenvolver campanhas, criar conteúdos, e implementar estratégias que impulsionem a sua marca. Conte conosco para atender suas necessidades de marketing de forma eficiente e criativa. Estamos prontos para tornar suas solicitações em projetos bem-sucedidos!</p>
+
 </div>
 </div>
 
