@@ -1,4 +1,3 @@
-
 "use client";
 import React, { FormEvent, useState, useRef } from "react";
 import Modal from 'react-modal';
@@ -40,13 +39,12 @@ export default function Home() {
       </div>
 
       <div className="primary-container">
-        <div className="container_Text"> 
-          <h1>Bem-vindo ao nosso canal de suporte técnico!</h1>
-          <p>Este é o seu ponto de apoio para qualquer problema técnico de hardware e software. Estamos aqui para ajudar você a resolver suas questões e garantir que tudo volte a funcionar rapidamente. Conte conosco para um suporte eficiente e sem complicações. Estamos prontos para tornar sua experiência mais tranquila e satisfatória!
-
+      <div className="container_Text"> 
+<h1>Bem-vindo ao nosso canal de suporte técnico!</h1>
+<p>Este é o seu ponto de apoio para qualquer problema técnico de hardware e software. Estamos aqui para ajudar você a resolver suas questões e garantir que tudo volte a funcionar rapidamente. Conte conosco para um suporte eficiente e sem complicações. Estamos prontos para tornar sua experiência mais tranquila e satisfatória!
 </p>
-        </div>
-      </div>
+</div>
+</div>
 
       <div className="secundary-container">
         <div className="Container-Left">
