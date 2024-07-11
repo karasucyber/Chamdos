@@ -15,7 +15,7 @@ export default function Home() {
   const sendEmail = (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     if (form.current) {
-      emailjs.sendForm('service_gfs4vto', 'template_i4owyda', form.current, {
+      emailjs.sendForm('service_fl4twhq', 'template_5oims9r', form.current, {
         publicKey: 'Poxs5uXpRAqX-CHsK',
       })
         .then(
